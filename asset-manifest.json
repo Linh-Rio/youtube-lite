@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youtube-lite/static/css/main.aa1ad781.css",
+    "main.js": "/youtube-lite/static/js/main.dfc0d6bf.js",
+    "index.html": "/youtube-lite/index.html",
+    "main.aa1ad781.css.map": "/youtube-lite/static/css/main.aa1ad781.css.map",
+    "main.dfc0d6bf.js.map": "/youtube-lite/static/js/main.dfc0d6bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa1ad781.css",
+    "static/js/main.dfc0d6bf.js"
+  ]
+}
